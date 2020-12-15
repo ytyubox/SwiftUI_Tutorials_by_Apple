@@ -9,15 +9,15 @@
 /* Begin PBXBuildFile section */
 		A710F34A2588C15600ABFDD8 /* SwiftUI_Tutorials_by_AppleApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A710F3372588C15400ABFDD8 /* SwiftUI_Tutorials_by_AppleApp.swift */; };
 		A710F34B2588C15600ABFDD8 /* SwiftUI_Tutorials_by_AppleApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A710F3372588C15400ABFDD8 /* SwiftUI_Tutorials_by_AppleApp.swift */; };
-		A710F34C2588C15600ABFDD8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A710F3382588C15400ABFDD8 /* ContentView.swift */; };
-		A710F34D2588C15600ABFDD8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A710F3382588C15400ABFDD8 /* ContentView.swift */; };
+		A710F34C2588C15600ABFDD8 /* MeetingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A710F3382588C15400ABFDD8 /* MeetingView.swift */; };
+		A710F34D2588C15600ABFDD8 /* MeetingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A710F3382588C15400ABFDD8 /* MeetingView.swift */; };
 		A710F34E2588C15600ABFDD8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A710F3392588C15600ABFDD8 /* Assets.xcassets */; };
 		A710F34F2588C15600ABFDD8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A710F3392588C15600ABFDD8 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		A710F3372588C15400ABFDD8 /* SwiftUI_Tutorials_by_AppleApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_Tutorials_by_AppleApp.swift; sourceTree = "<group>"; };
-		A710F3382588C15400ABFDD8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		A710F3382588C15400ABFDD8 /* MeetingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingView.swift; sourceTree = "<group>"; };
 		A710F3392588C15600ABFDD8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A710F33E2588C15600ABFDD8 /* SwiftUI_Tutorials_by_Apple.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUI_Tutorials_by_Apple.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A710F3412588C15600ABFDD8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -62,7 +62,7 @@
 			isa = PBXGroup;
 			children = (
 				A710F3372588C15400ABFDD8 /* SwiftUI_Tutorials_by_AppleApp.swift */,
-				A710F3382588C15400ABFDD8 /* ContentView.swift */,
+				A710F3382588C15400ABFDD8 /* MeetingView.swift */,
 				A710F3392588C15600ABFDD8 /* Assets.xcassets */,
 			);
 			path = Shared;
@@ -201,7 +201,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A710F34C2588C15600ABFDD8 /* ContentView.swift in Sources */,
+				A710F34C2588C15600ABFDD8 /* MeetingView.swift in Sources */,
 				A710F34A2588C15600ABFDD8 /* SwiftUI_Tutorials_by_AppleApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -210,7 +210,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A710F34D2588C15600ABFDD8 /* ContentView.swift in Sources */,
+				A710F34D2588C15600ABFDD8 /* MeetingView.swift in Sources */,
 				A710F34B2588C15600ABFDD8 /* SwiftUI_Tutorials_by_AppleApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
