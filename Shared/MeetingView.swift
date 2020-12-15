@@ -11,8 +11,7 @@ import SwiftUI
 
 struct MeetingView: View {
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        ProgressView(value: 5, total: 15)
     }
 }
 
