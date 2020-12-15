@@ -24,6 +24,9 @@
 		A710F3462588C15600ABFDD8 /* SwiftUI_Tutorials_by_Apple.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUI_Tutorials_by_Apple.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A710F3482588C15600ABFDD8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A710F3492588C15600ABFDD8 /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
+		A710F35B2588C1D400ABFDD8 /* 01-Getting-Started.zh.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "01-Getting-Started.zh.md"; sourceTree = "<group>"; };
+		A710F35D2588C51500ABFDD8 /* 01-Getting-Started.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "01-Getting-Started.md"; sourceTree = "<group>"; };
+		A710F3602588C6D700ABFDD8 /* 02-Using-Stacks-to-arrange-Views.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "02-Using-Stacks-to-arrange-Views.md"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +50,7 @@
 		A710F3312588C15400ABFDD8 = {
 			isa = PBXGroup;
 			children = (
+				A710F35A2588C1B400ABFDD8 /* Documents */,
 				A710F3362588C15400ABFDD8 /* Shared */,
 				A710F3402588C15600ABFDD8 /* iOS */,
 				A710F3472588C15600ABFDD8 /* macOS */,
@@ -88,6 +92,16 @@
 				A710F3492588C15600ABFDD8 /* macOS.entitlements */,
 			);
 			path = macOS;
+			sourceTree = "<group>";
+		};
+		A710F35A2588C1B400ABFDD8 /* Documents */ = {
+			isa = PBXGroup;
+			children = (
+				A710F35D2588C51500ABFDD8 /* 01-Getting-Started.md */,
+				A710F3602588C6D700ABFDD8 /* 02-Using-Stacks-to-arrange-Views.md */,
+				A710F35B2588C1D400ABFDD8 /* 01-Getting-Started.zh.md */,
+			);
+			path = Documents;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
