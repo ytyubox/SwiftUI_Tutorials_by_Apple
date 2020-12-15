@@ -31,7 +31,7 @@ Create a new project using the iOS App template.
 
 <!---->
 
-<picture data-v-6f999518=""><!----><img alt="Screenshot of Xcode template selection screen highlighting iOS App template" srcset="https://docs-assets.developer.apple.com/published/9cd3c6f0db159b8b71acc01543055316/600/010-010-005.png 1x, https://docs-assets.developer.apple.com/published/7288ec54d0262ac03c65083b769db374/600/010-010-005@2x.png 2x" src="https://docs-assets.developer.apple.com/published/9cd3c6f0db159b8b71acc01543055316/600/010-010-005.png" width="531" height="auto"></picture>
+<img alt="Screenshot of Xcode template selection screen highlighting iOS App template" srcset="https://docs-assets.developer.apple.com/published/9cd3c6f0db159b8b71acc01543055316/600/010-010-005.png 1x, https://docs-assets.developer.apple.com/published/7288ec54d0262ac03c65083b769db374/600/010-010-005@2x.png 2x" src="https://docs-assets.developer.apple.com/published/9cd3c6f0db159b8b71acc01543055316/600/010-010-005.png" width="531" height="auto">
 
 <!---->
 
@@ -43,11 +43,8 @@ The template includes a starter file for your root view, `ContentView.swift`, an
 .swift`.
 
 
-<picture data-v-6f999518=""><!----><img alt="Screenshot of Xcode new project screen highlighting Interface and Life Cycle pop-up menus" srcset="https://docs-assets.developer.apple.com/published/28eeb2046b94e5c7b17c034059c601a8/600/010-010-010.png 1x, https://docs-assets.developer.apple.com/published/b0689be017dff4cb39838c5520cd8313/600/010-010-010@2x.png 2x" src="https://docs-assets.developer.apple.com/published/28eeb2046b94e5c7b17c034059c601a8/600/010-010-010.png" width="531" height="auto"></picture>
+<img alt="Screenshot of Xcode new project screen highlighting Interface and Life Cycle pop-up menus" srcset="https://docs-assets.developer.apple.com/published/28eeb2046b94e5c7b17c034059c601a8/600/010-010-010.png 1x, https://docs-assets.developer.apple.com/published/b0689be017dff4cb39838c5520cd8313/600/010-010-010@2x.png 2x" src="https://docs-assets.developer.apple.com/published/28eeb2046b94e5c7b17c034059c601a8/600/010-010-010.png" width="531" height="auto">
 
-<!---->
-
-<picture data-v-6f999518=""><!----><img alt="Screenshot of Xcode new project screen highlighting Interface and Life Cycle pop-up menus" srcset="https://docs-assets.developer.apple.com/published/28eeb2046b94e5c7b17c034059c601a8/600/010-010-010.png 1x, https://docs-assets.developer.apple.com/published/b0689be017dff4cb39838c5520cd8313/600/010-010-010@2x.png 2x" src="https://docs-assets.developer.apple.com/published/28eeb2046b94e5c7b17c034059c601a8/600/010-010-010.png" width="531" height="auto"></picture>
 
 
 
@@ -55,7 +52,7 @@ The template includes a starter file for your root view, `ContentView.swift`, an
 
 Views define a piece of your UI. They’re the building blocks of your app, and each view should be small and focused. You build a complex view by composing it of small, simple views. In this section, you’ll build the header of the timer screen to display the elapsed time and remaining time of a meeting.
 
-<picture data-v-6f999518=""><!----><img alt="Wireframe of app with pins that show ProgressView, Text, Label, HStack, and VStack" srcset="https://docs-assets.developer.apple.com/published/8db81b16e614c72abc8f1d8dfcffae9f/600/010-010-intro.png 1x, https://docs-assets.developer.apple.com/published/52ecf4fe15cc0adf94eb45b9b7d113fe/600/010-010-intro@2x.png 2x" src="https://docs-assets.developer.apple.com/published/8db81b16e614c72abc8f1d8dfcffae9f/600/010-010-intro.png" width="362" height="auto"></picture>
+<img alt="Wireframe of app with pins that show ProgressView, Text, Label, HStack, and VStack" srcset="https://docs-assets.developer.apple.com/published/8db81b16e614c72abc8f1d8dfcffae9f/600/010-010-intro.png 1x, https://docs-assets.developer.apple.com/published/52ecf4fe15cc0adf94eb45b9b7d113fe/600/010-010-intro@2x.png 2x" src="https://docs-assets.developer.apple.com/published/8db81b16e614c72abc8f1d8dfcffae9f/600/010-010-intro.png" width="362" height="auto">
 
 <!---->
 
@@ -84,7 +81,6 @@ struct ContentView_Previews: PreviewProvider {
 }
 ```
 
-    No preview
 
 <!---->
 
@@ -128,23 +124,20 @@ When you select a SwiftUI file in the Project navigator, the canvas opens alongs
 >   You can press Option-Command-Return to show and hide the canvas. You can press Option-Command-P to resume or refresh a preview in the canvas.
 
 
-<picture data-v-6f999518=""><!----><img alt="Screenshot of canvas highlighting Resume button" srcset="https://docs-assets.developer.apple.com/published/4b510b920e99c73bc31393bce9f643f4/600/010-010-050.png 1x, https://docs-assets.developer.apple.com/published/ee50127e658c859d9218d05bdcc03937/600/010-010-050@2x.png 2x" src="https://docs-assets.developer.apple.com/published/4b510b920e99c73bc31393bce9f643f4/600/010-010-050.png" width="531" height="auto"></picture>
+<img alt="Screenshot of canvas highlighting Resume button" srcset="https://docs-assets.developer.apple.com/published/4b510b920e99c73bc31393bce9f643f4/600/010-010-050.png 1x, https://docs-assets.developer.apple.com/published/ee50127e658c859d9218d05bdcc03937/600/010-010-050@2x.png 2x" src="https://docs-assets.developer.apple.com/published/4b510b920e99c73bc31393bce9f643f4/600/010-010-050.png" width="531" height="auto">
 
-<!---->
 
 ### Step 5
 
-Command-click `Progress
-View` and select Embed in VStack.
+Command-click `ProgressView` and select Embed in VStack.
 
 Stacks group views horizontally, vertically, or back to front. You use stacks to combine and layer view components.
 
 <!---->
 
-[MeetingView.swift
-    ](https://developer.apple.com/tutorials/app-dev-training/using-stacks-to-arrange-views#)
+[MeetingView.swift](https://developer.apple.com/tutorials/app-dev-training/using-stacks-to-arrange-views#)
 
-```
+```swift
 struct MeetingView: View {
     var body: some View {
         VStack {
@@ -154,9 +147,6 @@ struct MeetingView: View {
 }
 ```
 
-    No preview
-
-<!---->
 
 ### Step 6
 
@@ -164,18 +154,16 @@ Create an `HStack` in the code editor, then click the Library button and drag a 
 
 Your code stays updated, whether you use the source editor, the canvas, the library, or the inspectors to modify your view.
 
-<aside data-v-c567d8a8="" aria-label="tip" class="tip">
-    Tip
 
-    You can press Shift-Command-L to open the library.
-</aside>
+>    Tip
+>    You can press Shift-Command-L to open the library.
 
 <!---->
 
 [MeetingView.swift
     ](https://developer.apple.com/tutorials/app-dev-training/using-stacks-to-arrange-views#)
 
-```
+```swift
 VStack {
             ProgressView(value: 5, total: 15)
             HStack {
@@ -192,14 +180,11 @@ VStack {
 
 Add another `Text` view with the value `Seconds Remaining`.
 
-<!---->
-
-<!---->
 
 [MeetingView.swift
     ](https://developer.apple.com/tutorials/app-dev-training/using-stacks-to-arrange-views#)
 
-```
+```swift
 HStack {
                 Text("Seconds Elapsed")
                 Text("Seconds Remaining")
@@ -221,7 +206,7 @@ Embed each `Text` view in a `VStack`.
 [MeetingView.swift
     ](https://developer.apple.com/tutorials/app-dev-training/using-stacks-to-arrange-views#)
 
-```
+```swift
 ProgressView(value: 5, total: 15)
             HStack {
                 VStack {
@@ -239,10 +224,7 @@ ProgressView(value: 5, total: 15)
 
 ### Step 9
 
-Add a `Label` below the first `Text` view with a `title` of `300` and `system
-Image` of `hourglass
-.bottomhalf
-.fill`.
+Add a `Label` below the first `Text` view with a `title` of `300` and `systemImage` of `hourglass.bottomhalf.fill`.
 
 The image uses one of the included [SF Symbols](https://developer.apple.com/sf-symbols/). The system treats these symbols like fonts, so they scale dynamically with a user’s device settings.
 
@@ -251,7 +233,7 @@ The image uses one of the included [SF Symbols](https://developer.apple.com/sf-s
 [MeetingView.swift
     ](https://developer.apple.com/tutorials/app-dev-training/using-stacks-to-arrange-views#)
 
-```
+```swift
 VStack {
                     Text("Seconds Elapsed")
                     Label("300", systemImage: "hourglass.bottomhalf.fill")
@@ -264,10 +246,7 @@ VStack {
 
 ### Step 10
 
-Add a `Label` below the second `Text` view with a `title` of `600` and `system
-Image` of `hourglass
-.tophalf
-.fill`.
+Add a `Label` below the second `Text` view with a `title` of `600` and `systemImage` of `hourglass.tophalf.fill`.
 
 <!---->
 
@@ -276,7 +255,7 @@ Image` of `hourglass
 [MeetingView.swift
     ](https://developer.apple.com/tutorials/app-dev-training/using-stacks-to-arrange-views#)
 
-```
+```swift
 VStack {
                     Text("Seconds Remaining")
                     Label("600", systemImage: "hourglass.tophalf.fill")
@@ -289,7 +268,7 @@ VStack {
 
 MeetingView.swift
 
-```
+```swift
 import SwiftUI
 
 struct MeetingView: View {
@@ -317,18 +296,15 @@ struct MeetingView_Previews: PreviewProvider {
 }
 ```
 
-<button data-v-b4b513b2="" class="header"><span data-v-b4b513b2="" class="runtime-preview-label">Preview</span><span data-v-b4b513b2="" aria-label="Hide" class="preview-hide">↗</span></button>
+
 
 <picture data-v-6f999518=""><!----><img alt="Screenshot of canvas with hourglass image and 600 below Seconds Remaining" srcset="https://docs-assets.developer.apple.com/published/6c40caa84f3d67b6510a202980ba703a/600/010-010-110-preview.png 1x" src="https://docs-assets.developer.apple.com/published/6c40caa84f3d67b6510a202980ba703a/600/010-010-110-preview.png" width="834" height="auto"></picture>
 
-[          Section 3
-        ](https://developer.apple.com/tutorials/app-dev-training/using-stacks-to-arrange-views#Modify-and-Style-Views)
-
-##         Modify and Style Views
+## Section 3  Modify and Style Views
 
 Now that you’ve created the basic views within the header, you’ll prototype and style the remainder of the meeting timer screen. You’ll add built-in modifiers to adjust the appearance of the header. You’ll also create additional stacks and views, and start adding controls.
 
-<picture data-v-6f999518=""><!----><img alt="Wireframe of timer header with pins that show .font(.caption), alignment: .leading, Spacer, and alignment: .trailing" srcset="https://docs-assets.developer.apple.com/published/ea0b072f1a9ae87af53a8ae0fcb64b65/600/010-020-intro.png 1x, https://docs-assets.developer.apple.com/published/d8ce04b762d67d79f0881a521b74f8b1/600/010-020-intro@2x.png 2x" src="https://docs-assets.developer.apple.com/published/ea0b072f1a9ae87af53a8ae0fcb64b65/600/010-020-intro.png" width="362" height="auto"></picture>
+<img alt="Wireframe of timer header with pins that show .font(.caption), alignment: .leading, Spacer, and alignment: .trailing" srcset="https://docs-assets.developer.apple.com/published/ea0b072f1a9ae87af53a8ae0fcb64b65/600/010-020-intro.png 1x, https://docs-assets.developer.apple.com/published/d8ce04b762d67d79f0881a521b74f8b1/600/010-020-intro@2x.png 2x" src="https://docs-assets.developer.apple.com/published/ea0b072f1a9ae87af53a8ae0fcb64b65/600/010-020-intro.png" width="362" height="auto">
 
 <!---->
 
@@ -345,7 +321,7 @@ Add `Spacer()` between each `VStack` to consume available space from the contain
 [MeetingView.swift
     ](https://developer.apple.com/tutorials/app-dev-training/using-stacks-to-arrange-views#)
 
-```
+```swift
 Label("300", systemImage: "hourglass.bottomhalf.fill")
                 }
                 Spacer()
@@ -362,18 +338,16 @@ Add a leading alignment in the `VStack` surrounding “Seconds Elapsed” and a 
 
 These alignments override the default behavior, which is center alignment. Some systems use left and right alignment. SwiftUI uses leading and trailing alignment to ease the localization of your app.
 
-<aside data-v-c567d8a8="" aria-label="tip" class="tip">
-    Tip
+>    Tip
+>   You can also set the alignment by selecting the `VStack` and using the Alignment options in the Attributes inspector.
 
-    You can also set the alignment by selecting the `VStack` and using the Alignment options in the Attributes inspector.
-</aside>
 
 <!---->
 
 [MeetingView.swift
     ](https://developer.apple.com/tutorials/app-dev-training/using-stacks-to-arrange-views#)
 
-```
+```swift
 ProgressView(value: 5, total: 15)
             HStack {
                 VStack(alignment: .leading) {
@@ -395,7 +369,7 @@ To customize a SwiftUI view, you call methods known as _modifiers_. Each modifie
 [MeetingView.swift
     ](https://developer.apple.com/tutorials/app-dev-training/using-stacks-to-arrange-views#)
 
-```
+```swift
 VStack(alignment: .leading) {
                     Text("Seconds Elapsed")
                         .font(.caption)
@@ -419,7 +393,7 @@ You’ll refine the design of the timer ring in later tutorials.
 [MeetingView.swift
     ](https://developer.apple.com/tutorials/app-dev-training/using-stacks-to-arrange-views#)
 
-```
+```swift
 }
             }
             Circle()
@@ -437,14 +411,11 @@ Finish prototyping the meeting timer screen by creating the footer.
 
 Add an `HStack` with a `Text` view that displays “Speaker 1 of 3.”
 
-<!---->
-
-<!---->
 
 [MeetingView.swift
     ](https://developer.apple.com/tutorials/app-dev-training/using-stacks-to-arrange-views#)
 
-```
+```swift
 Circle()
                 .strokeBorder(lineWidth: 24, antialiased: true)
             HStack {
@@ -459,8 +430,7 @@ Circle()
 
 ### Step 6
 
-Add a `Button` that uses the `forward
-.fill` image as its label.
+Add a `Button` that uses the `forward.fill` image as its label.
 
 Leave the button action empty for now. In a later tutorial, you’ll make the action advance the timer ring to the next speaker.
 
@@ -469,7 +439,7 @@ Leave the button action empty for now. In a later tutorial, you’ll make the ac
 [MeetingView.swift
     ](https://developer.apple.com/tutorials/app-dev-training/using-stacks-to-arrange-views#)
 
-```
+```swift
 HStack {
                 Text("Speaker 1 of 3")
                 Button(action: {}) {
@@ -486,14 +456,11 @@ HStack {
 
 Add `Spacer()` between `Text` and `Button`.
 
-<!---->
-
-<!---->
 
 [MeetingView.swift
     ](https://developer.apple.com/tutorials/app-dev-training/using-stacks-to-arrange-views#)
 
-```
+```swift
 HStack {
                 Text("Speaker 1 of 3")
                 Spacer()
@@ -515,7 +482,7 @@ Add padding to the top-level `VStack` to bring the views in from the edges.
 [MeetingView.swift
     ](https://developer.apple.com/tutorials/app-dev-training/using-stacks-to-arrange-views#)
 
-```
+```swift
 }
         }
         .padding()
@@ -528,7 +495,7 @@ Add padding to the top-level `VStack` to bring the views in from the edges.
 
 MeetingView.swift
 
-```
+```swift
 import SwiftUI
 
 struct MeetingView: View {
@@ -683,7 +650,7 @@ Before you continue to the next lesson, take a moment to reflect on the progress
 
 MeetingView.swift
 
-```
+```swift
 import SwiftUI
 
 struct MeetingView: View {
@@ -725,7 +692,3 @@ struct MeetingView_Previews: PreviewProvider {
     }
 }
 ```
-
-<button data-v-b4b513b2="" disabled="disabled" title="No preview available for this step." class="header"><span data-v-b4b513b2="" class="runtime-preview-label">No Preview</span><span data-v-b4b513b2="" aria-label="Show" class="preview-show">↙</span></button>
-
-## 
