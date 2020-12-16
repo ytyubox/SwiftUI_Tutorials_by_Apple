@@ -45,6 +45,7 @@
 		A736BEEA2589DC0D00984A19 /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
 		A736BEF32589E02500984A19 /* 05-Creating-a-Navigation-Hierarchy.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "05-Creating-a-Navigation-Hierarchy.md"; sourceTree = "<group>"; };
 		A736BEF62589E42000984A19 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		A736BEFB2589E79600984A19 /* 06-Creating-the-Edit-View.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "06-Creating-the-Edit-View.md"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -125,6 +126,7 @@
 				A736BED72589B66600984A19 /* 03-Creating-a-CardView.md */,
 				A736BEE92589DA2C00984A19 /* 04-Displaying-Data-in-a-List.md */,
 				A736BEF32589E02500984A19 /* 05-Creating-a-Navigation-Hierarchy.md */,
+				A736BEFB2589E79600984A19 /* 06-Creating-the-Edit-View.md */,
 				A710F35B2588C1D400ABFDD8 /* 01-Getting-Started.zh.md */,
 			);
 			path = Documents;
