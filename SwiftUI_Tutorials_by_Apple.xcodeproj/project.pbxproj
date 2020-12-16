@@ -27,6 +27,7 @@
 		A710F35B2588C1D400ABFDD8 /* 01-Getting-Started.zh.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "01-Getting-Started.zh.md"; sourceTree = "<group>"; };
 		A710F35D2588C51500ABFDD8 /* 01-Getting-Started.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "01-Getting-Started.md"; sourceTree = "<group>"; };
 		A710F3602588C6D700ABFDD8 /* 02-Using-Stacks-to-arrange-Views.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "02-Using-Stacks-to-arrange-Views.md"; sourceTree = "<group>"; };
+		A736BED72589B66600984A19 /* 03-Creating-a-CardView.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "03-Creating-a-CardView.md"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +100,7 @@
 			children = (
 				A710F35D2588C51500ABFDD8 /* 01-Getting-Started.md */,
 				A710F3602588C6D700ABFDD8 /* 02-Using-Stacks-to-arrange-Views.md */,
+				A736BED72589B66600984A19 /* 03-Creating-a-CardView.md */,
 				A710F35B2588C1D400ABFDD8 /* 01-Getting-Started.zh.md */,
 			);
 			path = Documents;
