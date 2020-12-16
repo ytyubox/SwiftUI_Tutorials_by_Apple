@@ -37,6 +37,7 @@
 		A736BED82589B9FE00984A19 /* DailyScrum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyScrum.swift; sourceTree = "<group>"; };
 		A736BEDF2589BA7200984A19 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		A736BEE42589BD9800984A19 /* Color+Codable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Color+Codable.swift"; sourceTree = "<group>"; };
+		A736BEE92589DA2C00984A19 /* 04-Displaying-Data-in-a-List.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "04-Displaying-Data-in-a-List.md"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +114,7 @@
 				A710F35D2588C51500ABFDD8 /* 01-Getting-Started.md */,
 				A710F3602588C6D700ABFDD8 /* 02-Using-Stacks-to-arrange-Views.md */,
 				A736BED72589B66600984A19 /* 03-Creating-a-CardView.md */,
+				A736BEE92589DA2C00984A19 /* 04-Displaying-Data-in-a-List.md */,
 				A710F35B2588C1D400ABFDD8 /* 01-Getting-Started.zh.md */,
 			);
 			path = Documents;
