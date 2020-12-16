@@ -13,6 +13,8 @@
 		A710F34D2588C15600ABFDD8 /* MeetingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A710F3382588C15400ABFDD8 /* MeetingView.swift */; };
 		A710F34E2588C15600ABFDD8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A710F3392588C15600ABFDD8 /* Assets.xcassets */; };
 		A710F34F2588C15600ABFDD8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A710F3392588C15600ABFDD8 /* Assets.xcassets */; };
+		A736BED92589B9FE00984A19 /* DailyScrum.swift in Sources */ = {isa = PBXBuildFile; fileRef = A736BED82589B9FE00984A19 /* DailyScrum.swift */; };
+		A736BEDA2589B9FE00984A19 /* DailyScrum.swift in Sources */ = {isa = PBXBuildFile; fileRef = A736BED82589B9FE00984A19 /* DailyScrum.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +30,7 @@
 		A710F35D2588C51500ABFDD8 /* 01-Getting-Started.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "01-Getting-Started.md"; sourceTree = "<group>"; };
 		A710F3602588C6D700ABFDD8 /* 02-Using-Stacks-to-arrange-Views.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "02-Using-Stacks-to-arrange-Views.md"; sourceTree = "<group>"; };
 		A736BED72589B66600984A19 /* 03-Creating-a-CardView.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "03-Creating-a-CardView.md"; sourceTree = "<group>"; };
+		A736BED82589B9FE00984A19 /* DailyScrum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyScrum.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +67,7 @@
 			children = (
 				A710F3372588C15400ABFDD8 /* SwiftUI_Tutorials_by_AppleApp.swift */,
 				A710F3382588C15400ABFDD8 /* MeetingView.swift */,
+				A736BED82589B9FE00984A19 /* DailyScrum.swift */,
 				A710F3392588C15600ABFDD8 /* Assets.xcassets */,
 			);
 			path = Shared;
@@ -204,6 +208,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A710F34C2588C15600ABFDD8 /* MeetingView.swift in Sources */,
+				A736BED92589B9FE00984A19 /* DailyScrum.swift in Sources */,
 				A710F34A2588C15600ABFDD8 /* SwiftUI_Tutorials_by_AppleApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -213,6 +218,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A710F34D2588C15600ABFDD8 /* MeetingView.swift in Sources */,
+				A736BEDA2589B9FE00984A19 /* DailyScrum.swift in Sources */,
 				A710F34B2588C15600ABFDD8 /* SwiftUI_Tutorials_by_AppleApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
