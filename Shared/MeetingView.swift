@@ -6,7 +6,6 @@
 //
 // Running on macOS 10.15
 
-
 import SwiftUI
 
 struct MeetingView: View {
@@ -30,13 +29,11 @@ struct MeetingView: View {
             .accessibilityLabel(Text("Time remaining"))
             .accessibilityValue(Text("10 minutes"))
             Circle()
-                .strokeBorder(lineWidth: 24, antialiased: true  )
+                .strokeBorder(lineWidth: 24, antialiased: true)
             HStack {
                 Text("Speaker 1 of 3")
                 Spacer()
-                Button {
-                    
-                } label: {
+                Button {} label: {
                     Image(systemName: "forward.fill")
                 }
                 .accessibilityLabel(Text("Next speaker"))

@@ -6,12 +6,11 @@
 //
 // Running on macOS 10.15
 
-
 import SwiftUI
 
 struct CardView: View {
-    let scrum : DailyScrum
-    
+    let scrum: DailyScrum
+
     var body: some View {
         VStack(alignment: .leading, spacing: /*@START_MENU_TOKEN@*/nil/*@END_MENU_TOKEN@*/) {
             Text(scrum.title)
