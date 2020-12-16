@@ -17,6 +17,8 @@
 		A736BEDA2589B9FE00984A19 /* DailyScrum.swift in Sources */ = {isa = PBXBuildFile; fileRef = A736BED82589B9FE00984A19 /* DailyScrum.swift */; };
 		A736BEE02589BA7200984A19 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A736BEDF2589BA7200984A19 /* CardView.swift */; };
 		A736BEE12589BA7200984A19 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A736BEDF2589BA7200984A19 /* CardView.swift */; };
+		A736BEE52589BD9800984A19 /* Color+Codable.swift in Sources */ = {isa = PBXBuildFile; fileRef = A736BEE42589BD9800984A19 /* Color+Codable.swift */; };
+		A736BEE62589BD9800984A19 /* Color+Codable.swift in Sources */ = {isa = PBXBuildFile; fileRef = A736BEE42589BD9800984A19 /* Color+Codable.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +36,7 @@
 		A736BED72589B66600984A19 /* 03-Creating-a-CardView.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "03-Creating-a-CardView.md"; sourceTree = "<group>"; };
 		A736BED82589B9FE00984A19 /* DailyScrum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyScrum.swift; sourceTree = "<group>"; };
 		A736BEDF2589BA7200984A19 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		A736BEE42589BD9800984A19 /* Color+Codable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Color+Codable.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +75,7 @@
 				A710F3382588C15400ABFDD8 /* MeetingView.swift */,
 				A736BED82589B9FE00984A19 /* DailyScrum.swift */,
 				A736BEDF2589BA7200984A19 /* CardView.swift */,
+				A736BEE42589BD9800984A19 /* Color+Codable.swift */,
 				A710F3392588C15600ABFDD8 /* Assets.xcassets */,
 			);
 			path = Shared;
@@ -214,6 +218,7 @@
 				A710F34C2588C15600ABFDD8 /* MeetingView.swift in Sources */,
 				A736BED92589B9FE00984A19 /* DailyScrum.swift in Sources */,
 				A736BEE02589BA7200984A19 /* CardView.swift in Sources */,
+				A736BEE52589BD9800984A19 /* Color+Codable.swift in Sources */,
 				A710F34A2588C15600ABFDD8 /* SwiftUI_Tutorials_by_AppleApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -225,6 +230,7 @@
 				A710F34D2588C15600ABFDD8 /* MeetingView.swift in Sources */,
 				A736BEDA2589B9FE00984A19 /* DailyScrum.swift in Sources */,
 				A736BEE12589BA7200984A19 /* CardView.swift in Sources */,
+				A736BEE62589BD9800984A19 /* Color+Codable.swift in Sources */,
 				A710F34B2588C15600ABFDD8 /* SwiftUI_Tutorials_by_AppleApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
