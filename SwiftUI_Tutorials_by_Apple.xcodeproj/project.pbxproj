@@ -21,6 +21,8 @@
 		A736BEE62589BD9800984A19 /* Color+Codable.swift in Sources */ = {isa = PBXBuildFile; fileRef = A736BEE42589BD9800984A19 /* Color+Codable.swift */; };
 		A736BEEB2589DC0D00984A19 /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A736BEEA2589DC0D00984A19 /* ScrumsView.swift */; };
 		A736BEEC2589DC0D00984A19 /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A736BEEA2589DC0D00984A19 /* ScrumsView.swift */; };
+		A736BEF72589E42000984A19 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A736BEF62589E42000984A19 /* DetailView.swift */; };
+		A736BEF82589E42000984A19 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A736BEF62589E42000984A19 /* DetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,6 +44,7 @@
 		A736BEE92589DA2C00984A19 /* 04-Displaying-Data-in-a-List.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "04-Displaying-Data-in-a-List.md"; sourceTree = "<group>"; };
 		A736BEEA2589DC0D00984A19 /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
 		A736BEF32589E02500984A19 /* 05-Creating-a-Navigation-Hierarchy.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "05-Creating-a-Navigation-Hierarchy.md"; sourceTree = "<group>"; };
+		A736BEF62589E42000984A19 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +84,7 @@
 				A736BED82589B9FE00984A19 /* DailyScrum.swift */,
 				A736BEDF2589BA7200984A19 /* CardView.swift */,
 				A736BEEA2589DC0D00984A19 /* ScrumsView.swift */,
+				A736BEF62589E42000984A19 /* DetailView.swift */,
 				A736BEE42589BD9800984A19 /* Color+Codable.swift */,
 				A710F3392588C15600ABFDD8 /* Assets.xcassets */,
 			);
@@ -226,6 +230,7 @@
 				A710F34C2588C15600ABFDD8 /* MeetingView.swift in Sources */,
 				A736BEEB2589DC0D00984A19 /* ScrumsView.swift in Sources */,
 				A736BED92589B9FE00984A19 /* DailyScrum.swift in Sources */,
+				A736BEF72589E42000984A19 /* DetailView.swift in Sources */,
 				A736BEE02589BA7200984A19 /* CardView.swift in Sources */,
 				A736BEE52589BD9800984A19 /* Color+Codable.swift in Sources */,
 				A710F34A2588C15600ABFDD8 /* SwiftUI_Tutorials_by_AppleApp.swift in Sources */,
@@ -239,6 +244,7 @@
 				A710F34D2588C15600ABFDD8 /* MeetingView.swift in Sources */,
 				A736BEEC2589DC0D00984A19 /* ScrumsView.swift in Sources */,
 				A736BEDA2589B9FE00984A19 /* DailyScrum.swift in Sources */,
+				A736BEF82589E42000984A19 /* DetailView.swift in Sources */,
 				A736BEE12589BA7200984A19 /* CardView.swift in Sources */,
 				A736BEE62589BD9800984A19 /* Color+Codable.swift in Sources */,
 				A710F34B2588C15600ABFDD8 /* SwiftUI_Tutorials_by_AppleApp.swift in Sources */,
