@@ -23,6 +23,8 @@
 		A736BEEC2589DC0D00984A19 /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A736BEEA2589DC0D00984A19 /* ScrumsView.swift */; };
 		A736BEF72589E42000984A19 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A736BEF62589E42000984A19 /* DetailView.swift */; };
 		A736BEF82589E42000984A19 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A736BEF62589E42000984A19 /* DetailView.swift */; };
+		A736BEFD2589EBFA00984A19 /* EditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A736BEFC2589EBFA00984A19 /* EditView.swift */; };
+		A736BEFE2589EBFA00984A19 /* EditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A736BEFC2589EBFA00984A19 /* EditView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -46,6 +48,7 @@
 		A736BEF32589E02500984A19 /* 05-Creating-a-Navigation-Hierarchy.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "05-Creating-a-Navigation-Hierarchy.md"; sourceTree = "<group>"; };
 		A736BEF62589E42000984A19 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		A736BEFB2589E79600984A19 /* 06-Creating-the-Edit-View.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "06-Creating-the-Edit-View.md"; sourceTree = "<group>"; };
+		A736BEFC2589EBFA00984A19 /* EditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,14 +83,15 @@
 		A710F3362588C15400ABFDD8 /* Shared */ = {
 			isa = PBXGroup;
 			children = (
-				A710F3372588C15400ABFDD8 /* SwiftUI_Tutorials_by_AppleApp.swift */,
-				A710F3382588C15400ABFDD8 /* MeetingView.swift */,
-				A736BED82589B9FE00984A19 /* DailyScrum.swift */,
-				A736BEDF2589BA7200984A19 /* CardView.swift */,
-				A736BEEA2589DC0D00984A19 /* ScrumsView.swift */,
-				A736BEF62589E42000984A19 /* DetailView.swift */,
-				A736BEE42589BD9800984A19 /* Color+Codable.swift */,
 				A710F3392588C15600ABFDD8 /* Assets.xcassets */,
+				A736BEDF2589BA7200984A19 /* CardView.swift */,
+				A736BEE42589BD9800984A19 /* Color+Codable.swift */,
+				A736BED82589B9FE00984A19 /* DailyScrum.swift */,
+				A736BEFC2589EBFA00984A19 /* EditView.swift */,
+				A736BEF62589E42000984A19 /* DetailView.swift */,
+				A710F3382588C15400ABFDD8 /* MeetingView.swift */,
+				A736BEEA2589DC0D00984A19 /* ScrumsView.swift */,
+				A710F3372588C15400ABFDD8 /* SwiftUI_Tutorials_by_AppleApp.swift */,
 			);
 			path = Shared;
 			sourceTree = "<group>";
@@ -231,6 +235,7 @@
 			files = (
 				A710F34C2588C15600ABFDD8 /* MeetingView.swift in Sources */,
 				A736BEEB2589DC0D00984A19 /* ScrumsView.swift in Sources */,
+				A736BEFD2589EBFA00984A19 /* EditView.swift in Sources */,
 				A736BED92589B9FE00984A19 /* DailyScrum.swift in Sources */,
 				A736BEF72589E42000984A19 /* DetailView.swift in Sources */,
 				A736BEE02589BA7200984A19 /* CardView.swift in Sources */,
@@ -245,6 +250,7 @@
 			files = (
 				A710F34D2588C15600ABFDD8 /* MeetingView.swift in Sources */,
 				A736BEEC2589DC0D00984A19 /* ScrumsView.swift in Sources */,
+				A736BEFE2589EBFA00984A19 /* EditView.swift in Sources */,
 				A736BEDA2589B9FE00984A19 /* DailyScrum.swift in Sources */,
 				A736BEF82589E42000984A19 /* DetailView.swift in Sources */,
 				A736BEE12589BA7200984A19 /* CardView.swift in Sources */,
