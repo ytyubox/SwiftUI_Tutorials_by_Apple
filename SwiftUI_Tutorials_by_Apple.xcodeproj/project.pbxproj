@@ -15,6 +15,8 @@
 		A710F34F2588C15600ABFDD8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A710F3392588C15600ABFDD8 /* Assets.xcassets */; };
 		A736BED92589B9FE00984A19 /* DailyScrum.swift in Sources */ = {isa = PBXBuildFile; fileRef = A736BED82589B9FE00984A19 /* DailyScrum.swift */; };
 		A736BEDA2589B9FE00984A19 /* DailyScrum.swift in Sources */ = {isa = PBXBuildFile; fileRef = A736BED82589B9FE00984A19 /* DailyScrum.swift */; };
+		A736BEE02589BA7200984A19 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A736BEDF2589BA7200984A19 /* CardView.swift */; };
+		A736BEE12589BA7200984A19 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A736BEDF2589BA7200984A19 /* CardView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +33,7 @@
 		A710F3602588C6D700ABFDD8 /* 02-Using-Stacks-to-arrange-Views.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "02-Using-Stacks-to-arrange-Views.md"; sourceTree = "<group>"; };
 		A736BED72589B66600984A19 /* 03-Creating-a-CardView.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "03-Creating-a-CardView.md"; sourceTree = "<group>"; };
 		A736BED82589B9FE00984A19 /* DailyScrum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyScrum.swift; sourceTree = "<group>"; };
+		A736BEDF2589BA7200984A19 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +71,7 @@
 				A710F3372588C15400ABFDD8 /* SwiftUI_Tutorials_by_AppleApp.swift */,
 				A710F3382588C15400ABFDD8 /* MeetingView.swift */,
 				A736BED82589B9FE00984A19 /* DailyScrum.swift */,
+				A736BEDF2589BA7200984A19 /* CardView.swift */,
 				A710F3392588C15600ABFDD8 /* Assets.xcassets */,
 			);
 			path = Shared;
@@ -209,6 +213,7 @@
 			files = (
 				A710F34C2588C15600ABFDD8 /* MeetingView.swift in Sources */,
 				A736BED92589B9FE00984A19 /* DailyScrum.swift in Sources */,
+				A736BEE02589BA7200984A19 /* CardView.swift in Sources */,
 				A710F34A2588C15600ABFDD8 /* SwiftUI_Tutorials_by_AppleApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -219,6 +224,7 @@
 			files = (
 				A710F34D2588C15600ABFDD8 /* MeetingView.swift in Sources */,
 				A736BEDA2589B9FE00984A19 /* DailyScrum.swift in Sources */,
+				A736BEE12589BA7200984A19 /* CardView.swift in Sources */,
 				A710F34B2588C15600ABFDD8 /* SwiftUI_Tutorials_by_AppleApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
