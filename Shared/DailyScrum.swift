@@ -6,9 +6,19 @@
 //
 // Running on macOS 10.15
 
+import struct Foundation.UUID
 import struct SwiftUI.Color
 
 struct DailyScrum: Identifiable {
+    internal init(id: UUID = UUID(), title: String, attendees: [String], lengthInMinutes: Int, color: Color) {
+        self.id = id
+        self.title = title
+        self.attendees = attendees
+        self.lengthInMinutes = lengthInMinutes
+        self.color = color
+    }
+
+    var id: UUID
     var title: String
     var attendees: [String]
     var lengthInMinutes: Int
