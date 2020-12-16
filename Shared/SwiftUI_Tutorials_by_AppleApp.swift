@@ -12,7 +12,9 @@ import SwiftUI
 struct SwiftUI_Tutorials_by_AppleApp: App {
     var body: some Scene {
         WindowGroup {
-            ScrumsView(scrums: DailyScrum.data)
+            NavigationView {
+                ScrumsView(scrums: DailyScrum.data)
+            }
         }
     }
 }
