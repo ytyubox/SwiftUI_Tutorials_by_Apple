@@ -37,7 +37,7 @@ struct MeetingView: View {
                 Button {
                     
                 } label: {
-                    Image("forward.fill")
+                    Image(systemName: "forward.fill")
                 }
                 .accessibilityLabel(Text("Next speaker"))
             }
